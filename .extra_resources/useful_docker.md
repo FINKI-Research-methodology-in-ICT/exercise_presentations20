@@ -1,0 +1,10 @@
+# Docker
+- [Docker](https://www.docker.com/)
+- [Dockerhub](https://hub.docker.com/editions/community/docker-ce-desktop-windows/)
+- [Install docker Windows](https://docs.docker.com/docker-for-windows/install/); [User manual](https://docs.docker.com/docker-for-windows/)
+- [repo2docker](https://repo2docker.readthedocs.io/en/latest/usage.html) and [build with it](https://zero-to-jupyterhub.readthedocs.io/en/latest/repo2docker.html)
+- [Chris: repo2docker](https://blog.jupyter.org/introducing-repo2docker-61a593c0752d)
+- [issue](https://github.com/vercel/hyper/issues/2888)
+- [image remove](https://docs.docker.com/engine/reference/commandline/image_rm/)
+- [install docker on other disk](https://forums.docker.com/t/how-could-i-install-docker-for-windows-on-drive-e-my-ssd-c-is-full/52347/2)
+- [docker-stacks](https://github.com/jupyter/docker-stacks)
