@@ -1,1 +1,1 @@
-# exercise_presentations20
+# Аудиториски вежби [МнивИ-2020]
