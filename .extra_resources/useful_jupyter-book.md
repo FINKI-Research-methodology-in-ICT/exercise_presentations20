@@ -4,3 +4,4 @@
 - [Ruby](https://www.ruby-lang.org/en/downloads/)
 - [List gems](https://stackoverflow.com/questions/5177634/list-of-installed-gems)
 - [Colab for jupyter-book](http://tigue.com/jupyter_book_to_colab/); (п.с. ако некој сака нека не троши време брзо можам да средам)
+- [BibTex](https://pages.lip6.fr/Pascal.Poizat/blog/posts/2016/02/01/jekyll-and-bibtex/)
