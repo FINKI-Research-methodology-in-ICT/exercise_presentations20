@@ -7,4 +7,5 @@
 - [issue](https://github.com/vercel/hyper/issues/2888)
 - [image remove](https://docs.docker.com/engine/reference/commandline/image_rm/)
 - [install docker on other disk](https://forums.docker.com/t/how-could-i-install-docker-for-windows-on-drive-e-my-ssd-c-is-full/52347/2)
-- [docker-stacks](https://github.com/jupyter/docker-stacks)
+- [docker-stacks](https://github.com/jupyter/docker-stacks): 
+- [datascience-notebook](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#jupyter-datascience-notebook) 
